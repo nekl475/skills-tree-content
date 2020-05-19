@@ -4,9 +4,9 @@ A database is an **organized collection of data**.
 
 ## Topics
 
-- [] Classification
-- [] Database management system 
-- [] Transactions and concurrency
+- [ ] Classification
+- [ ] Database management system 
+- [ ] Transactions and concurrency
 
 # Links
 

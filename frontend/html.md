@@ -4,9 +4,9 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 
 ## Topics
 
-- [] Versions
-- [] Markup
-- [] Elements and attributes
+- [ ] Versions
+- [ ] Markup
+- [ ] Elements and attributes
 
 ## Links
 
