@@ -4,4 +4,9 @@ A terminal or terminal emulator is a computer program that emulates a video term
 
 ## Topics
 
-Basic terminal usage
+- [ ] Basic terminal usage
+- [ ] Core commands
+- [ ] File managemengt commands
+- [ ] Pipes (combining multiple commands)
+
+## Links
