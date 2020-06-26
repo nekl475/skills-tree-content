@@ -4,9 +4,9 @@ The Internet is the global system of interconnected computer networks that uses 
 
 ## Topics
 
-- [ ] How does Internet works?
-- [ ] What is HTTP?
-- [ ] How browsers work?
+- [ ] How does the Internet work? [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg) [Wikipedia article](https://en.wikipedia.org/wiki/Internet)
+- [ ] What stands for HTTP?
+- [ ] How browsers work? [What is a web browser?](https://www.youtube.com/watch?v=QzohDuGk4mM)
 
 ## Links
 
