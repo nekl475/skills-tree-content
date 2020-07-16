@@ -13,15 +13,20 @@ OOP is based on **4 main principles**:
 - [ ] What is OOP?
 - [ ] Main principles of OOP
 - [ ] What is an object/class? [Object Introduction](https://www.youtube.com/watch?v=BXyUuMWoQ60)
-- [ ] What is a Constructor?
-- [ ] What is an Interface/Abstract class?
-- [ ] Public vs Private scope
-- [ ] Copying vs Cloning objects
+- [ ] What is 'this' pointer?
+- [ ] What is a constructor/destructor?
+- [ ] Which difference between interface/abstract class? [Abstract Classes and Interfaces](https://www.youtube.com/watch?v=AU07jJc_qMQ)
+- [ ] What types of inheritance can be?
+- [ ] Public vs private scope
+- [ ] Copying vs cloning objects
 - [ ] Static properties and methods
-- [ ] What is a Mixin?
+- [ ] What is a mixin?
 - [ ] Association, aggregation, and composition in OOP [Intro To Object Associations](https://www.youtube.com/watch?v=gTQgkkUo1Ro)
 - [ ] What is method overloading/overriding?
-- [ ] How does Prototypal inheritance work?
+- [ ] How does Prototypal Inheritance work?
+- [ ] What is Static and Dynamic Binding?
+- [ ] What's 'Сomposition over Inheritance' concept about?
+
+## Links
+[Introduction to Object Oriented Programming Concepts](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
  
-
-

@@ -13,8 +13,8 @@ Common paradigms:
 > Many of the most widely used programming languages (such as C++, Java, Python, etc.) are **multi-paradigm** and they support object-oriented programming typically in combination with imperative, procedural, functional programming etc.
 
 ## Topics
-- [ ] What is Programming paradigm?
-- [ ] Common paradigms: what's the difference?
+- [ ] What is paradigm?
+- [ ] Common paradigms: differences
 
 ## Links
 [▶︎ Programming Across Paradigms](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
