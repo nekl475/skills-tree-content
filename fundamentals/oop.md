@@ -11,21 +11,21 @@ OOP is based on **4 main principles**:
 
 ## Topics
 - [ ] What is OOP?
-- [ ] Main principles of OOP
+- [ ] Main principles of OOP [Main principles of OOP](https://dev-gist.com/basics/oop-principles/)
 - [ ] What is an object/class? [Object Introduction](https://www.youtube.com/watch?v=BXyUuMWoQ60)
 - [ ] What is 'this' pointer?
 - [ ] What is a constructor/destructor?
-- [ ] Which difference between interface/abstract class? [Abstract Classes and Interfaces](https://www.youtube.com/watch?v=AU07jJc_qMQ)
+- [ ] Which difference between an interface/abstract class? [Abstract classes vs Interfaces](https://dev-gist.com/basics/abstract-class-vs-interface/) [Abstract Classes and Interfaces](https://www.youtube.com/watch?v=AU07jJc_qMQ)
 - [ ] What types of inheritance can be?
-- [ ] Public vs private scope
+- [ ] Visibility modifiers (public, protected, private)
 - [ ] Copying vs cloning objects
 - [ ] Static properties and methods
-- [ ] What is a mixin?
-- [ ] Association, aggregation, and composition in OOP [Intro To Object Associations](https://www.youtube.com/watch?v=gTQgkkUo1Ro)
-- [ ] What is method overloading/overriding?
+- [ ] Mixins and Multiple inheritance
+- [ ] Association, Aggregation, Composition [Association vs aggregation vs composition](https://dev-gist.com/basics/association-aggregation-composition/) [Intro To Object Associations](https://www.youtube.com/watch?v=gTQgkkUo1Ro)
+- [ ] Difference between Method Overloading/Overriding? [Method Overloading vs Overriding](https://dev-gist.com/basics/method-overloading-vs-overriding/)
 - [ ] How does Prototypal Inheritance work?
-- [ ] What is Static and Dynamic Binding?
-- [ ] What's 'Сomposition over Inheritance' concept about?
+- [ ] What is Static and Dynamic Binding? [Static vs dynamic binding](https://dev-gist.com/basics/static-dynamic-binding/)
+- [ ] Composition Over Inheritance principle
 
 ## Links
 [Introduction to Object Oriented Programming Concepts](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
