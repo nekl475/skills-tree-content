@@ -7,4 +7,4 @@ SOLID is a mnemonic **acronym** for five design principles intended to make soft
 - [ ] LSP (Liskov Substitution Principle)
 - [ ] ISP (Interface Segregation Principle)
 - [ ] DIP (Dependency Inversion Principle)
-- [ ] What's high-/low-level module?
+- [ ] What's high/low-level module?

@@ -26,6 +26,7 @@ OOP is based on **4 main principles**:
 - [ ] How does Prototypal Inheritance work?
 - [ ] What is Static and Dynamic Binding? [Static vs dynamic binding](https://dev-gist.com/basics/static-dynamic-binding/)
 - [ ] Composition Over Inheritance principle
+- [ ] "God Object" term [God object](https://en.wikipedia.org/wiki/God_object)
 
 ## Links
 [Introduction to Object Oriented Programming Concepts](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
