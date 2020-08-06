@@ -1,12 +1,10 @@
 # Terminal
 
-A terminal or terminal emulator is a computer program that emulates a video terminal, synonymous with a `shell`.
+**Terminals** (**console** or **command line**) - allows to accomplish and automate tasks on a computer without the use of a graphical user interface. 
+Using a terminal allows us to send simple text commands to our computer to do things like navigate through a directory or copy a file, and form the basis for many more complex automations and programming skills.
 
 ## Topics
-
-- [ ] Basic terminal usage
-- [ ] Core commands
-- [ ] File managemengt commands
+- [ ] What's Terminal/Console?
+- [ ] Basic Terminal Commands
 - [ ] Pipes (combining multiple commands)
-
-## Links
+- [ ] Terminal multiplexers (tmux, screen)
