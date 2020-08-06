@@ -8,3 +8,12 @@ Using a terminal allows us to send simple text commands to our computer to do th
 - [ ] Basic Terminal Commands
 - [ ] Pipes (combining multiple commands)
 - [ ] Terminal multiplexers (tmux, screen)
+- [ ] Text Manipulation tools (sed, grep, sort, cat, awk etc)
+- [ ] Process Monitoring (ps, top, htop, atop, lsof etc)
+- [ ] Network tools (ping, tcpdump, traceroute, dig, iptables, netstat etc)
+- [ ] Bash Scripting
+- [ ] Text Editing (Vim, Nano, PowerShell, Emacs etc)
+- [ ] Compiling apps from source (gcc, make etc)
+- [ ] System Performance (nmon, iostat, sar, vmstat etc)
+- [ ] Additional tools (strace, dtrace, systempad, uname, df, history)
+
